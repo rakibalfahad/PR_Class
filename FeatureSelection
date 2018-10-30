@@ -7,3 +7,6 @@ http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.h
 
 Selecting good features – Part IV: stability selection, RFE and everything side by side
 https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
+
+RandomizedlogisticRegreesion: ( scikit-learn 0.17 )
+http://lijiancheng0614.github.io/scikit-learn/auto_examples/linear_model/plot_sparse_recovery.html#example-linear-model-plot-sparse-recovery-py
