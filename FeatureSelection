@@ -1,4 +1,9 @@
+
 Sklearn Feature Selection
 http://scikit-learn.org/stable/modules/feature_selection.html
+
 RFE:
 http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html#sklearn.feature_selection.RFE
+
+Selecting good features – Part IV: stability selection, RFE and everything side by side
+https://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/
